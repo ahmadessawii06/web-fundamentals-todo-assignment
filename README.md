@@ -12,3 +12,5 @@ A simple yet functional To-Do List application built with JavaScript, HTML, CSS,
 - ✅ Persistent data storage via API  
 
 ---
+
+## Live Preview: https://ahmadessawii06.github.io/web-fundamentals-todo-assignment/
