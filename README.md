@@ -13,4 +13,6 @@ A simple yet functional To-Do List application built with JavaScript, HTML, CSS,
 
 ---
 
-## Live Preview: https://ahmadessawii06.github.io/web-fundamentals-todo-assignment/
+## Live Preview:  
+[To-Do List App](https://ahmadessawii06.github.io/web-fundamentals-todo-assignment/)
+
